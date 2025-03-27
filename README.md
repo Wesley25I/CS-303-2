@@ -18,3 +18,4 @@ Singly Linked List Operations
 5. Output the size of the list
 
 Output
+![image](https://github.com/user-attachments/assets/1d29a459-7813-4f4e-ab68-ff845d2af2c8)
