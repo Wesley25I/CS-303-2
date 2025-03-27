@@ -18,4 +18,3 @@ Singly Linked List Operations
 5. Output the size of the list
 
 Output
-Output.jpg
